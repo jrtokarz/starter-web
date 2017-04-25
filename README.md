@@ -15,6 +15,10 @@ Further example demonstration text editing blah blah.
 
 This is a simple web project, deployment can be blah blah
 
+## How To Contribute
+
+Please fork this respository and then issue Pull Requests for review.
+
 ### Copyright
 
 Copyright 2017 (c)
