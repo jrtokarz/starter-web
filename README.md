@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This repository is used by the git training course to demonstrate git usage
+Adding a line for rebasing example
 
 ## Purpose
 
