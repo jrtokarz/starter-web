@@ -14,3 +14,7 @@ Further example demonstration text editing blah blah.
 ## Deployment
 
 This is a simple web project, deployment can be blah blah
+
+### Copyright
+
+Copyright 2017 (c)
