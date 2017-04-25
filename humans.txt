@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Jason Tokarz    jason.tokarz@gmail.com  jrtokarz
 
 # THANKS
 
