@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Jason Tokarz    jason.tokarz@gmail.com  jrtokarz
 
 # THANKS
 
-    <name>
+    Thanks to all my readers
 
 # TECHNOLOGY COLOPHON
 
